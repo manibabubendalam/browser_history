@@ -1,0 +1,26 @@
+.history-item-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.time {
+  font-family: Roboto;
+  font-size: 16px;
+  margin-right: 14px;
+}
+.link-delete-container {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+.logo-url {
+  width: 16px;
+  height: 16px;
+  margin-right: 10px;
+}
+.delete-icon-button {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+}
